@@ -1,11 +1,11 @@
 {
   "app_config": {
-    "unity_app_id": "5067721",
-    "unity_banner_placement_id": "Banner_Android",
-    "unity_interstitial_placement_id": "Interstitial_Android",
+    "unity_app_id": "your_unity_app_id",
+    "unity_banner_placement_id": "your_banner_id",
+    "unity_interstitial_placement_id": "your_interstitial_id",
     "interstitial_ad_interval": 3,
-    "telegram_channel_link": "https://t.me/NetStreamfree",
-    "donate_link": "https://t.me/NetStreamfree",
+    "telegram_channel_link": "https://t.me/your_channel",
+    "donate_link": "https://your_donate_link.com",
     "share_text": "Check out NetStream, a free streaming app!",
     "share_url": "https://t.me/NetStreamfree",
     "app_version": "1.0.0",
@@ -16,6 +16,7 @@
   "trending_url": "https://raw.githubusercontent.com/netstreamfree/netstream/main/trending.m3u",
   "m3u_urls": [
     "https://raw.githubusercontent.com/netstreamfree/netstream/main/channels.m3u",
-    "https://iptv-org.github.io/iptv/index.category.m3u"
+    "https://iptv-org.github.io/iptv/index.category.m3u",
+    "https://example.com/another_playlist.m3u"
   ]
 }
