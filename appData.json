@@ -4,7 +4,7 @@
      "unity_banner_placement_id": "Banner_Android_Bidding",
      "unity_interstitial_placement_id": "Interstitial_Android_Bidding",
      "unity_rewarded_placement_id": "Rewarded_Android_Bidding", 
-     "watch_time_per_ad": 300, 
+     "watch_time_per_ad": 3000, 
      "interstitial_ad_interval": 3,
      "telegram_channel_link": "https://t.me/NetStreamfree",
      "donate_link": "https://t.me/NetStreamfree",
